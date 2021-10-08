@@ -1,0 +1,27 @@
+.main-tables-container {
+    justify-content: center;
+
+}
+.main-currency-table {
+    margin: 0;
+}
+.main-comision-table {
+    margin: 0;
+    margin-left: 40px;
+}
+
+
+
+.product-cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 950px;
+    margin: 0 auto;
+}
+
+
+
+.plans--card-container, .plans--card-container2, .plans--card-container3 {
+    margin: 0 20px;
+    margin-top: 50px;
+}
